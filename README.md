@@ -20,6 +20,6 @@
 
 <hr>
 
-#### Download here [download](https://www.mediafire.com/file/09xfxgn48iy7gng/health_challenge-0.5.jar/file)!
+#### Download here [download](https://www.mediafire.com/file/ki04in02dhv0ahy/Ping-0.1.jar/file)!
 
 
