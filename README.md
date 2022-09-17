@@ -1,4 +1,4 @@
-![Error at loading](logo.png)
+![Error at loading](Logo.png)
 # Ping-Plugin_aredblock
 
 ### License: Affero General Public License and saying my name
