@@ -2,6 +2,7 @@
 # Ping-Plugin_aredblock
 
 ### License: Affero General Public License and saying my name
+### Minecraft-Version: 1.13-1.16.5
 
 <hr>
 
