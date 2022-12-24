@@ -9,13 +9,13 @@ introduction: Ein Plugin was es dir ermöglicht den Ping von dir und anderen anz
 description: |
       # Überblick
       Das PLugin fügt die Commands: '/ping' und '/search-ping' zum spiel hinzu! 
-      Sie ermöglichen es dir die Pings von dir und anderen Mitspielern!
+      Sie ermöglichen es dir die Pings von dir und anderen Mitspielern anzuzeigen!
 
       # Nutzung
-      Zur Nutzung des Plugins muss jegentlich der Command '/ping' zum anzeigen von deinem Ping oder der Command '/search-ping <playername>' zum anzeigen des Pings von einem anderen Spieler eingegeben werden!
+      Zur Nutzung des Plugins muss lediglich der Command '/ping' zum anzeigen von deinem Ping oder der Command '/search-ping <playername>' zum anzeigen des Pings von einem anderen Spieler eingegeben werden!
 installation: |
-      #Insterllation
-      Zum insterllieren des Plugins mus jegentlich die .jar Datei heruntergeladen werden und in den PLugins Ordner des Bukkit/Spigot-servers verschoben werden!
+      #Installation
+      Zum insallieren des Plugins mus lediglich die .jar Datei heruntergeladen werden und in den Plugins Ordner des Bukkit/Spigot-servers verschoben werden!
       Wenn dies geschehen ist muss der Server nur noch neugestartet werden oder mit dem Command '/reload' gereloadet werden! 
 images:
   - https://aredblock.github.io/plugindata/1.png
