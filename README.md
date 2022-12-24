@@ -2,7 +2,7 @@
 # Ping-Plugin_aredblock
 
 ### License: Affero General Public License and saying my name
-### Minecraft-Version: 1.13-1.16.5
+### Minecraft-Version: 1.17.x - 1.19.3
 
 <hr>
 
@@ -21,6 +21,6 @@
 
 <hr>
 
-#### Download here [download](https://www.mediafire.com/file/ki04in02dhv0ahy/Ping-0.1.jar/file)!
+#### Download here [download](https://www.mediafire.com/file/ki04in02dhv0ahy/Ping-0.1.jar/file)! ore in the Releases!
 
 
