@@ -14,8 +14,8 @@ description: |
       # Nutzung
       Zur Nutzung des Plugins muss lediglich der Command '/ping' zum Anzeigen von deinem Ping oder der Command '/search-ping <playername>' zum Anzeigen des Pings von einem anderen Spieler eingegeben werden!
 installation: |
-      #Installation
-      Zum installieren des Plugins mus lediglich die .jar Datei heruntergeladen werden und in den Plugins Ordner des Bukkit/Spigot-servers verschoben werden!
+      # Installation
+      Zum Installieren des Plugins mus lediglich die .jar Datei heruntergeladen werden und in den Plugins Ordner des Bukkit/Spigot-Servers verschoben werden!
       Wenn dies geschehen ist muss der Server nur noch neugestartet werden oder mit dem Command '/reload' gereloadet werden! 
 images:
   - https://aredblock.github.io/plugindata/1.png
