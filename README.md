@@ -21,6 +21,6 @@
 
 <hr>
 
-#### Download here [download](https://www.mediafire.com/file/ki04in02dhv0ahy/Ping-0.1.jar/file)! ore in the Releases!
+#### Download here the old for 1.13 -> 1.16.5 [download](https://www.mediafire.com/file/ki04in02dhv0ahy/Ping-0.1.jar/file)! ore in the Releases!
 
 
