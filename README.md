@@ -1,4 +1,4 @@
-![Error at loading](Logo.png)
+![Error at loading](simping-logo.png)
 # Simping            |            (Ping-Plugin_aredblock)
 
 ### License: Affero General Public License and saying my name
