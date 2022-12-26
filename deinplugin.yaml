@@ -3,7 +3,7 @@ type: plugin
 name: Simping
 authors:
   - aredblock
-supportedGameVersions: ^1.17.x
+supportedGameVersions: ^1.17
 category: misc
 introduction: Ein Plugin was es dir ermöglicht den Ping von dir und anderen anzuzeigen!
 description: |
