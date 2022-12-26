@@ -1,5 +1,5 @@
 ![Error at loading](Logo.png)
-# Ping-Plugin_aredblock
+# Easeius----(Ping-Plugin_aredblock)
 
 ### License: Affero General Public License and saying my name
 ### Minecraft-Version: 1.17.x - 1.19.3
